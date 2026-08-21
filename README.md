@@ -1,11 +1,14 @@
 
 
 ## 2D PCB view
-<img width="1063" height="601" alt="image" src="https://github.com/user-attachments/assets/abac8288-f831-4014-8ba0-18d7b9f47924" />
+<img width="1062" height="636" alt="image" src="https://github.com/user-attachments/assets/b0ea960b-ef36-4a86-8f45-5fb9f5b25a7f" />
+
 
 ## 3D PCB view
-<img width="761" height="418" alt="image" src="https://github.com/user-attachments/assets/546b65e6-85c3-45a8-9ae0-2ab6312d7027" />
+<img width="924" height="522" alt="image" src="https://github.com/user-attachments/assets/21e03545-d3a8-42c5-a005-357a6877c2cb" />
+
 
 ## Schematic
-<img width="1091" height="726" alt="image" src="https://github.com/user-attachments/assets/9483b5e1-03d8-4b82-9ca4-133c50228a5e" />
+<img width="1081" height="723" alt="image" src="https://github.com/user-attachments/assets/32cdf509-0897-486f-a44f-98022965aa45" />
+
 

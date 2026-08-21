@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Original
 
 [Preferences]
 PrefsVaultGUID=
@@ -82,6 +83,16 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIXIIVHQ
+
+[ProjectVariant1]
+UniqueId=7163887e-80ec-4fc3-8e2b-f0720770ed55
+Description=Original
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=D1|UniqueId=\SCXACAIZ|Kind=1|AlternatePart=
+Variation2=Designator=C9|UniqueId=\XCXBJPDI|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 10W_Class_D_Amp\AMP_PCB.EXTREP

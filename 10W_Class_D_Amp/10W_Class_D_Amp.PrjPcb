@@ -89,9 +89,7 @@ UniqueId=7163887e-80ec-4fc3-8e2b-f0720770ed55
 Description=Original
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=D1|UniqueId=\SCXACAIZ|Kind=1|AlternatePart=
-Variation2=Designator=C9|UniqueId=\XCXBJPDI|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
